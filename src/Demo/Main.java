@@ -17,6 +17,7 @@ public class Main {
         System.out.println("How old are you?");
         age = in.nextInt();
         System.out.println();
+        System.out.println();
         return age;
 
     }
