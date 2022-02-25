@@ -12,11 +12,11 @@ public class Main {
     }
     int askAboutAge(){
         Scanner in = new Scanner(System.in);
-        int alder;
+        int alder1;
 
         System.out.println("How old are you?");
-        alder = in.nextInt();
-        return alder;
+        alder1 = in.nextInt();
+        return alder1;
 
     }
 }
